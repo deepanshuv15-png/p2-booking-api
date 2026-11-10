@@ -1,0 +1,13 @@
+{
+  "name": "p2-booking-api",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "playwright test",
+    "report": "playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.65.0",
+    "@types/node": "^22.10.0"
+  }
+}
